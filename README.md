@@ -1,6 +1,6 @@
 # 📊 SQL Skills & Expertise
 
-I am proficient in writing complex SQL queries for data analysis and manipulation.
+I am proficient in writing complex SQL queries for data analysis 
 
 ### 🛠️ Core Querying & Filtering
 * **Data Retrieval:** Expert in using `SELECT`, `DISTINCT`, and Aliases.
