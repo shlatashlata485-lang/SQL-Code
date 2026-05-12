@@ -6,8 +6,9 @@ I am proficient in writing complex SQL queries for data analysis and manipulatio
 * **Data Retrieval:** Expert in using `SELECT`, `DISTINCT`, and Aliases.
 * **Filtering:** Proficient in `WHERE` clauses using `AND`, `OR`, `IN`, `BETWEEN`, and `LIKE` for pattern matching.
 * **Sorting:** Using `ORDER BY` (ASC/DESC) to organize data effectively.
-* pt.png
-
+<p align="center">
+  <img src="pt.png" width="850">
+</p>
 ### 📈 Data Aggregation & Grouping
 * **Summarizing Data:** Skilled in Aggregate Functions like `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and `MAX()`.
 * **Categorical Analysis:** Using `GROUP BY` to generate insights per category and `HAVING` to filter aggregated results.
