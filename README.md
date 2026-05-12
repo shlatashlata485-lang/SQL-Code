@@ -1,6 +1,6 @@
 # 📊 SQL Skills & Expertise
 
-I am proficient in writing complex SQL queries for data analysis and manipulation. Here’s a breakdown of the technical skills I apply to handle relational databases:
+I am proficient in writing complex SQL queries for data analysis and manipulation.
 
 ### 🛠️ Core Querying & Filtering
 * **Data Retrieval:** Expert in using `SELECT`, `DISTINCT`, and Aliases.
