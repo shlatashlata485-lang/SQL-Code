@@ -7,7 +7,7 @@ I am proficient in writing complex SQL queries for data analysis
 * **Filtering:** Proficient in `WHERE` clauses using `AND`, `OR`, `IN`, `BETWEEN`, and `LIKE` for pattern matching.
 * **Sorting:** Using `ORDER BY` (ASC/DESC) to organize data effectively.
 <p align="center">
-  <img src="pt.png" width="850">
+  <img src="sql.png" width="850">
 </p>
 ### 📈 Data Aggregation & Grouping
 * **Summarizing Data:** Skilled in Aggregate Functions like `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and `MAX()`.
